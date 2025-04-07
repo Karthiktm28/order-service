@@ -55,7 +55,6 @@
             <artifactId>h2</artifactId>
             <scope>runtime</scope>
         </dependency>
-<!-- Trigger CI/CD webhook test on dev branch -->
 
         <!-- DevTools -->
         <dependency>
@@ -130,6 +129,6 @@
         </dependencies>
     </dependencyManagement>
 <!-- trigger webhook -->
-<!-- Trigger webhook for CI/CD test -->
 
 </project>
+<!-- Trigger CI/CD webhook test on dev branch -->
